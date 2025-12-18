@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Node modules (if any)
+node_modules/
+
+# Environment files
+.env
+
+# Maven build output
+target/
